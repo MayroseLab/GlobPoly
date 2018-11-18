@@ -1,9 +1,9 @@
 # The Global Biogeography of Polyploid Plants - code documentation 
 
 The following steps describe the pipeline used to produce the results presented in _The Global Biogeography of Polyploid Plants_ manuscript.
-Reference: The Global Biogeography of Polyploid Plants. Rice A., Šmarda P., Novosolov M., Drori M., Glick L., Sabath N., Meiri S., Belmaker J., Mayrose I. (_Nature Ecology & Evolution_, in press).
-Link:  ---
-Figshare project related data: ---
+<br>Reference: The Global Biogeography of Polyploid Plants. Rice A., Šmarda P., Novosolov M., Drori M., Glick L., Sabath N., Meiri S., Belmaker J., Mayrose I. (_Nature Ecology & Evolution_, in press).
+<br>Link:  ---
+<br>Figshare project related data: ---
 
 **1.	Filter occurrences**  
    Script: filtering.R  

@@ -6,8 +6,8 @@ The following steps describe the pipeline used to produce the results presented 
 <br>Figshare project related data: ---
 
 **1.	Filter occurrences**  
-⋅⋅⋅Script: filtering.R  
-   Description: Using the CleanCoordinates wrapper function of the CoordinateClearner R package, together with additional filters, the occurrences files are filtered. Additional filters include: basis of record must be different than LIVING_SPECIMEN or LITERATURE, and the decimal part of each of the coordinates must have at least 2 digits.   
+ -Script: filtering.R
+ -Description: Using the CleanCoordinates wrapper function of the CoordinateClearner R package, together with additional filters, the occurrences files are filtered. Additional filters include: basis of record must be different than LIVING_SPECIMEN or LITERATURE, and the decimal part of each of the coordinates must have at least 2 digits.   
    Input: 	(1) working_dir	(2) new_dir (destination) (3) genera (list of working genera) (4) suffix (input file suffix, e.g., “GBIF.csv” will produce “genusGBIF.csv”)  
    Output: genusFiltered.csv   
   
